@@ -1,6 +1,6 @@
 #from numpy.testing import assert_allclose
 #assert_allclose(obs, exp, atol=err)
-
+#Comment for travis!
 def mean(num_list):
     #assert type(num_list) == list
     #assert isinstance(num_list, list)
